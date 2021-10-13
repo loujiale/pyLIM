@@ -1,0 +1,11 @@
+
+.DS_Store
+src/pyLIM/__pycache__/__init__.cpython-37.pyc
+src/.ipynb_checkpoints/example_script-Copy1-checkpoint.ipynb
+src/.ipynb_checkpoints/example_script-checkpoint.ipynb
+src/pyLIM/__pycache__/dataset.cpython-37.pyc
+src/pyLIM/__pycache__/driver.cpython-37.pyc
+src/pyLIM/__pycache__/model.cpython-37.pyc
+src/pyLIM/__pycache__/tools.cpython-37.pyc
+src/pyLIM/__pycache__/plot.cpython-37.pyc
+src/pyLIM/__pycache__/verif.cpython-37.pyc
